@@ -1,5 +1,5 @@
 # ProcessesSynchronization
-The second lab work in BSUIR for Windows platform.
+The second lab work in BSUIR for Windows platform [C++ code]
 
 Console application that is a clear example of processes synchronization use.
 Main process begets one derived process by pressing “+”,
